@@ -1,4 +1,4 @@
-*Art works 
-*Movies 
-*Chocolate 
-*Places
+* Art works 
+* Movies 
+* Chocolate 
+* Places
